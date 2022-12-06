@@ -11,7 +11,7 @@ Webpack is a free and open-source module bundler for JavaScript. It is made prim
   ```
   npm  i --save-dev webpack webpack-cli webpack-dev-server @babel/core @babel/preset-env babel-loader style-loader css-loader sass-loader html-webpack-plugin mini-css-extract-plugin
   ```
-  After Installing all the packages run this command ``` npm start ``` to start dev server and run ``` npm run build ``` to creates a build directory with a production build of your app.
+  After Installing all the packages run this command ``` npm run serve ``` to start dev server and you can just press ```Ctrl + C``` in the terminal and that will kill it and run ``` npm run build ``` to creates a build directory with a production build of your app.
 
 ## 🤝 Contributing
 
